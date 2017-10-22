@@ -1,0 +1,12 @@
+body{
+	background-color: #48666B;
+}
+#minion-group {
+	font-family: "Minion Pro";
+}
+.img-circle{
+	border-radius:50pt;
+}
+.jumbotron{
+	background-image: src=img/siri.jpeg;
+}
