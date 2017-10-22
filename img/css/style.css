@@ -1,0 +1,31 @@
+body{
+	background-color: #48666B;
+}
+#minion-group {
+	font-family: "Minion Pro";
+}
+.img-circle{
+	border-radius:50pt;
+}
+.jumbotron{
+	background-image: url(http://cdn.wccftech.com/wp-content/uploads/2017/03/Siri-2-1.jpg);
+	background-size: cover;
+	height:500px;
+}
+#minion-white{
+	font-family: "Minion Pro";
+	color: white;
+	text-align: center;
+}
+.blah{
+	padding-left: 12%
+}
+.darkweb{
+	background-color: black;	
+}
+.darkweb1{
+	color:white;
+}
+.piclinks:hover {
+	opacity:25%;
+}
