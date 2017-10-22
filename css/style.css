@@ -7,7 +7,25 @@ body{
 .img-circle{
 	border-radius:50pt;
 }
-#jumbotron{
-	background-image: src("img/siri.jpeg");
+.jumbotron{
+	background-image: url(file:///Users/sirihedreen/Desktop/CodeAtUni/website1/img/siri.jpeg);
 	background-size: cover;
+	height:500px;
+}
+#minion-white{
+	font-family: "Minion Pro";
+	color: white;
+	text-align: center;
+}
+.blah{
+	padding-left: 12%
+}
+.darkweb{
+	background-color: black;	
+}
+.darkweb1{
+	color:white;
+}
+.piclinks:hover {
+	opacity:25%;
 }
